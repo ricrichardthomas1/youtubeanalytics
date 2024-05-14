@@ -33,3 +33,4 @@ The above ETL pipeline is run daily by wrapping the necessary python functions i
 
 **4. Visualize** the Data on Tableau [Published Viz on Tableau Public](https://public.tableau.com/app/profile/richard.t.vetticad/viz/PopularYouTubeVideos/WhatstheworldwatchingonYouTube?publish=yes)
 
+![Dashboard Preview](dashboardpreview.png)
